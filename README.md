@@ -25,7 +25,7 @@ Starter kit for prototyping and building static HTML sites with [Gulp](http://gu
 
 ## Static HTML Starter ♥️ Functional CSS
 
-The combination of PostCSS and Browsersync makes Static HTML Starter a great tool for rapid prototyping with Functional CSS frameworks like [Tachyons](http://tachyons.io/) or [BassCSS](http://basscss.com/).
+The combination of PostCSS and Browsersync makes Static HTML Starter a great starting point for rapid prototyping with Functional CSS frameworks like [Tachyons](http://tachyons.io/) or [BassCSS](http://basscss.com/).
 
 You can install any stylesheet from [npm](https://www.npmjs.com/) and `@import` it in your CSS by adding `@import "my-module";`. For example running the command `npm install --save tachyons-flexbox` in your project directory would enable you to use `@import "tachyons-flexbox";` in your CSS.
 
