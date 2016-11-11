@@ -4,7 +4,7 @@ Starter kit for prototyping and building static HTML sites with [Gulp](http://gu
 
 ## [Gulp Tasks](https://css-tricks.com/gulp-for-beginners/#article-header-id-5)
 
-- `default`: Run `css` and `html` tasks, start `browsersync` and `watch` tasks
+- `default`: Run `css`, `js`, and `html` tasks, start `browsersync` and `watch` tasks
 - `html`: Copy HTML files to destination folder
 - `css`: Process CSS files with [PostCSS](http://postcss.org/) and save output files that don’t match `cssPaths.exclude` to stylesheet destination folder
 - `js`: Process JS files with [Babel](https://babeljs.io/) and save output files that don’t match `jsPaths.exclude` to script destination folder
